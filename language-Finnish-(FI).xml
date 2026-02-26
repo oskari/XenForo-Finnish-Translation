@@ -17127,28 +17127,6 @@ Jatkamalla tämän sivuston käyttöä hyväksyt evästeiden käytön.]]></phras
 <br />
 Please confirm that you are moving the thread to the correct forum.]]></phrase>
   <phrase title="thread_polls" addon_id="XF" version_id="2000036" version_string="2.0.0 Beta 6"><![CDATA[Thread polls]]></phrase>
-  <phrase title="thread_prefix.1" addon_id="" version_id="0" version_string=""><![CDATA[Myydään]]></phrase>
-  <phrase title="thread_prefix.2" addon_id="" version_id="0" version_string=""><![CDATA[Myyty]]></phrase>
-  <phrase title="thread_prefix.3" addon_id="" version_id="0" version_string=""><![CDATA[Ostetaan]]></phrase>
-  <phrase title="thread_prefix.4" addon_id="" version_id="0" version_string=""><![CDATA[Ostettu]]></phrase>
-  <phrase title="thread_prefix.5" addon_id="" version_id="0" version_string=""><![CDATA[Vaihdetaan]]></phrase>
-  <phrase title="thread_prefix.6" addon_id="" version_id="0" version_string=""><![CDATA[Vaihdettu]]></phrase>
-  <phrase title="thread_prefix.7" addon_id="" version_id="0" version_string=""><![CDATA[Huutokauppa]]></phrase>
-  <phrase title="thread_prefix_desc.1" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="thread_prefix_desc.2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="thread_prefix_desc.3" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="thread_prefix_desc.4" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="thread_prefix_desc.5" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="thread_prefix_desc.6" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="thread_prefix_desc.7" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="thread_prefix_group.1" addon_id="" version_id="0" version_string=""><![CDATA[Avant Planet - Ostetaan, myydään ja vaihdetaan]]></phrase>
-  <phrase title="thread_prefix_help.1" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="thread_prefix_help.2" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="thread_prefix_help.3" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="thread_prefix_help.4" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="thread_prefix_help.5" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="thread_prefix_help.6" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
-  <phrase title="thread_prefix_help.7" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="thread_prefixes" addon_id="XF" version_id="2010872" version_string="2.1.8 Patch 2"><![CDATA[Keskustelun etuliitteet]]></phrase>
   <phrase title="thread_prompt.default" addon_id="XF" version_id="2030370" version_string="2.3.3"><![CDATA[Keskustelun otsikko]]></phrase>
   <phrase title="thread_prompts" addon_id="XF" version_id="2000070" version_string="2.0.0"><![CDATA[Keskustelun ohjeet]]></phrase>
@@ -18638,7 +18616,6 @@ Voit tilata uutiskirjeen uudelleen menemällä tilisi asetuksiin ja valitsemalla
   <phrase title="widget.start_a_thread" addon_id="" version_id="0" version_string=""><![CDATA[Etkö löydä aihetta, johon haluaisit osallistua?]]></phrase>
   <phrase title="widget.th_aboutUs_communityGoals" addon_id="" version_id="0" version_string=""><![CDATA[Yhteisön tavoitteet ja ilmapiiri]]></phrase>
   <phrase title="widget.th_aboutUs_disclaimer" addon_id="" version_id="0" version_string=""><![CDATA[Riippumattomuus ja sisällön vastuu]]></phrase>
-  <phrase title="widget.th_aboutUs_whatIsIt" addon_id="" version_id="0" version_string=""><![CDATA[Mikä on AvantClub.fi?]]></phrase>
   <phrase title="widget.thdonate_earnings" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.thdonate_goals" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.thdonate_topDonations" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
@@ -18648,7 +18625,6 @@ Voit tilata uutiskirjeen uudelleen menemällä tilisi asetuksiin ja valitsemalla
   <phrase title="widget.thuix_footer_quickNavWidget" addon_id="" version_id="0" version_string=""><![CDATA[Pikavalikko]]></phrase>
   <phrase title="widget.thuix_footer_quickNavWidget123" addon_id="" version_id="0" version_string=""><![CDATA[Riippumattomuus ja sisällön vastuu]]></phrase>
   <phrase title="widget.thuix_footer_userNavWidget" addon_id="" version_id="0" version_string=""><![CDATA[Käyttäjävalikko]]></phrase>
-  <phrase title="widget.thuix_footer_userNavWidget5656" addon_id="" version_id="0" version_string=""><![CDATA[Mikä on AvantClub.fi?]]></phrase>
   <phrase title="widget.uix_footer_forumStatistics" addon_id="" version_id="0" version_string=""><![CDATA[]]></phrase>
   <phrase title="widget.uix_footer_onlineStatistics" addon_id="" version_id="0" version_string=""><![CDATA[Paikalla yhteensä]]></phrase>
   <phrase title="widget.uix_sidebar_postNewThread" addon_id="" version_id="0" version_string=""><![CDATA[Etkö löydä keskustelun aihetta?]]></phrase>
